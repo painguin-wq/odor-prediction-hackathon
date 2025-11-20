@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные и кэш
+data/raw/
+data/processed/
+data/cache/
+
+# Модели
+models/
